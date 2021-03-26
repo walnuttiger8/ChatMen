@@ -1,0 +1,19 @@
+C:\Users\vc_05_208\Desktop\lb22\ClientPart\ClientPart\bin\Debug\ClientPart.exe.config
+C:\Users\vc_05_208\Desktop\lb22\ClientPart\ClientPart\bin\Debug\ClientPart.exe
+C:\Users\vc_05_208\Desktop\lb22\ClientPart\ClientPart\bin\Debug\ClientPart.pdb
+C:\Users\vc_05_208\Desktop\lb22\ClientPart\ClientPart\obj\Debug\ClientPart.csprojResolveAssemblyReference.cache
+C:\Users\vc_05_208\Desktop\lb22\ClientPart\ClientPart\obj\Debug\ClientPart.Form1.resources
+C:\Users\vc_05_208\Desktop\lb22\ClientPart\ClientPart\obj\Debug\ClientPart.Properties.Resources.resources
+C:\Users\vc_05_208\Desktop\lb22\ClientPart\ClientPart\obj\Debug\ClientPart.csproj.GenerateResource.Cache
+C:\Users\vc_05_208\Desktop\lb22\ClientPart\ClientPart\obj\Debug\ClientPart.exe
+C:\Users\vc_05_208\Desktop\lb22\ClientPart\ClientPart\obj\Debug\ClientPart.pdb
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\Прикладное программирование\лаба новая 1\ПП\ClientPart\ClientPart\bin\Debug\ClientPart.exe.config
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\Прикладное программирование\лаба новая 1\ПП\ClientPart\ClientPart\bin\Debug\ClientPart.exe
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\Прикладное программирование\лаба новая 1\ПП\ClientPart\ClientPart\bin\Debug\ClientPart.pdb
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\Прикладное программирование\лаба новая 1\ПП\ClientPart\ClientPart\obj\Debug\ClientPart.csprojAssemblyReference.cache
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\Прикладное программирование\лаба новая 1\ПП\ClientPart\ClientPart\obj\Debug\ClientPart.Form1.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\Прикладное программирование\лаба новая 1\ПП\ClientPart\ClientPart\obj\Debug\ClientPart.Properties.Resources.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\Прикладное программирование\лаба новая 1\ПП\ClientPart\ClientPart\obj\Debug\ClientPart.csproj.GenerateResource.cache
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\Прикладное программирование\лаба новая 1\ПП\ClientPart\ClientPart\obj\Debug\ClientPart.csproj.CoreCompileInputs.cache
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\Прикладное программирование\лаба новая 1\ПП\ClientPart\ClientPart\obj\Debug\ClientPart.exe
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\Прикладное программирование\лаба новая 1\ПП\ClientPart\ClientPart\obj\Debug\ClientPart.pdb

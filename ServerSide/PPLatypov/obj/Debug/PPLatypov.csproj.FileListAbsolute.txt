@@ -1,0 +1,19 @@
+C:\Users\vc_05_208\Desktop\lb22\PPLatypov\PPLatypov\bin\Debug\PPLatypov.exe.config
+C:\Users\vc_05_208\Desktop\lb22\PPLatypov\PPLatypov\obj\Debug\PPLatypov.csprojResolveAssemblyReference.cache
+C:\Users\vc_05_208\Desktop\lb22\PPLatypov\PPLatypov\obj\Debug\PPLatypov.Form1.resources
+C:\Users\vc_05_208\Desktop\lb22\PPLatypov\PPLatypov\obj\Debug\PPLatypov.Properties.Resources.resources
+C:\Users\vc_05_208\Desktop\lb22\PPLatypov\PPLatypov\obj\Debug\PPLatypov.csproj.GenerateResource.Cache
+C:\Users\vc_05_208\Desktop\lb22\PPLatypov\PPLatypov\bin\Debug\PPLatypov.exe
+C:\Users\vc_05_208\Desktop\lb22\PPLatypov\PPLatypov\bin\Debug\PPLatypov.pdb
+C:\Users\vc_05_208\Desktop\lb22\PPLatypov\PPLatypov\obj\Debug\PPLatypov.exe
+C:\Users\vc_05_208\Desktop\lb22\PPLatypov\PPLatypov\obj\Debug\PPLatypov.pdb
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\Прикладное программирование\лаба новая 1\ПП\PPLatypov\PPLatypov\obj\Debug\PPLatypov.csprojAssemblyReference.cache
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\Прикладное программирование\лаба новая 1\ПП\PPLatypov\PPLatypov\obj\Debug\PPLatypov.Form1.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\Прикладное программирование\лаба новая 1\ПП\PPLatypov\PPLatypov\obj\Debug\PPLatypov.Properties.Resources.resources
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\Прикладное программирование\лаба новая 1\ПП\PPLatypov\PPLatypov\obj\Debug\PPLatypov.csproj.GenerateResource.cache
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\Прикладное программирование\лаба новая 1\ПП\PPLatypov\PPLatypov\obj\Debug\PPLatypov.csproj.CoreCompileInputs.cache
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\Прикладное программирование\лаба новая 1\ПП\PPLatypov\PPLatypov\obj\Debug\PPLatypov.pdb
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\Прикладное программирование\лаба новая 1\ПП\PPLatypov\PPLatypov\bin\Debug\PPLatypov.exe.config
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\Прикладное программирование\лаба новая 1\ПП\PPLatypov\PPLatypov\bin\Debug\PPLatypov.exe
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\Прикладное программирование\лаба новая 1\ПП\PPLatypov\PPLatypov\bin\Debug\PPLatypov.pdb
+C:\Users\latyp\OneDrive\Рабочий стол\лабы\4 семестр\Прикладное программирование\лаба новая 1\ПП\PPLatypov\PPLatypov\obj\Debug\PPLatypov.exe
